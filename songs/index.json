@@ -16,5 +16,29 @@
     "title": "Vamos Fugir",
     "artist": "Gilberto Gil",
     "key": "F#m"
+  },
+  {
+    "id": "a-novidade",
+    "title": "A Novidade",
+    "artist": "Gilberto Gil",
+    "key": "A"
+  },
+  {
+    "id": "lanca-perfume",
+    "title": "Lança Perfume",
+    "artist": "Rita Lee",
+    "key": "E"
+  },
+  {
+    "id": "sossego",
+    "title": "Sossego",
+    "artist": "Tim Maia",
+    "key": "C"
+  },
+  {
+    "id": "imunizacao-racional-que-beleza",
+    "title": "Imunização Racional (Que Beleza)",
+    "artist": "Tim Maia",
+    "key": "F"
   }
 ]
