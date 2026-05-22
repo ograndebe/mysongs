@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minhas Cifras</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>Minhas Cifras</h1>
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Buscar música ou artista..." />
+        <label class="filter-fav">
+          <input type="checkbox" id="favFilter" />
+          <span>Favoritas</span>
+        </label>
+      </div>
+    </header>
+
+    <main>
+      <ul id="songList" class="song-list"></ul>
+    </main>
+  </div>
+
+  <div id="overlay" class="overlay hidden">
+    <div id="viewer" class="viewer">
+      <div class="viewer-header">
+        <div>
+          <h2 id="viewerTitle"></h2>
+          <p id="viewerMeta"></p>
+        </div>
+        <div class="viewer-actions">
+          <button id="btnFav" class="btn-fav" title="Favoritar">☆</button>
+          <button id="btnFullscreen" class="btn-icon" title="Tela cheia">⛶</button>
+          <button id="btnClose" class="btn-icon" title="Fechar">✕</button>
+        </div>
+      </div>
+      <div id="viewerContent" class="viewer-content"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

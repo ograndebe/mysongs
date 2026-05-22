@@ -1,0 +1,13 @@
+[
+  { "id": "amar-sem-medo", "title": "Amar Sem Medo", "artist": "Luna Campos", "key": "G" },
+  { "id": "dias-de-sol", "title": "Dias de Sol", "artist": "Miguel Torres", "key": "C" },
+  { "id": "ventos-do-norte", "title": "Ventos do Norte", "artist": "Banda Horizonte", "key": "Dm" },
+  { "id": "caminhos-do-coracao", "title": "Caminhos do Coração", "artist": "Ana Flora", "key": "A" },
+  { "id": "lua-de-prata", "title": "Lua de Prata", "artist": "Carlos Verde", "key": "Em" },
+  { "id": "jardim-secreto", "title": "Jardim Secreto", "artist": "Brisa Azul", "key": "F" },
+  { "id": "mare-de-amor", "title": "Maré de Amor", "artist": "Dandara Reis", "key": "Bm" },
+  { "id": "sombras-do-passado", "title": "Sombras do Passado", "artist": "Renato Luz", "key": "Am" },
+  { "id": "flores-no-asfalto", "title": "Flores no Asfalto", "artist": "Tânia Rocha", "key": "D" },
+  { "id": "horizonte-azul", "title": "Horizonte Azul", "artist": "Grupo Nascer", "key": "G" },
+  { "id": "meus-bons-amigos", "title": "Meus Bons Amigos", "artist": "Barão Vermelho", "key": "D" }
+]
