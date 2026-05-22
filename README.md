@@ -26,7 +26,7 @@ Página estática para visualizar cifras musicais com suporte a busca, favoritos
 Com a skill `import-song`:
 
 ```
-> importa essa cifra https://www.cifraclub.com/artista/musica/
+> importa essa cifra https://www.exemplo-cifras.com/artista/musica
 ```
 
 A skill baixa a página, limpa o ruído, gera o arquivo `.chordpro` e atualiza o índice.
