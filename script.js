@@ -307,5 +307,9 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeViewer();
 });
 
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
+
 loadFavs();
 loadSongs();
